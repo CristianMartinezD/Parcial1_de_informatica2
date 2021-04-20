@@ -45,9 +45,8 @@ int main()
 		for(int j=0; j<=63; j++){
 			figuras[i][j] = recibida[j];
 		}
-	}
-	//este pedaso no va en arduino.
-	for(int a=0; a<2; a++){
+	}   // 
+	para ( int    a    =     0 ; a       <       2 ; a++ ) {
 		for(int b=0; b<=63; b++){
 			cout<<figuras[a][b];
 		}
