@@ -45,7 +45,9 @@ int main()
 		for(int j=0; j<=63; j++){
 			figuras[i][j] = recibida[j];
 		}
-	}   // 
+	}   /* Esta parte del código la use solo para ver si mi código
+ estaba funcionando perfectamente */
+
 	para ( int    a    =     0 ; a       <       2 ; a++ ) {
 		for(int b=0; b<=63; b++){
 			cout<<figuras[a][b];
