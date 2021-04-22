@@ -1,3 +1,4 @@
+/* este codigo es un prototipo de lk que se debe hacer en Tinjercad*/
 #include <iostream>
 using namespace std;
 
